@@ -23,8 +23,10 @@
       <term name="and">and</term>
       <term name="available at">Available at:</term>
       <term name="accessed">accessed</term>
-      <term name="page" form="short">p.</term>
-      <term name="page" form="short" plural="true">pp.</term>
+      <term name="page" form="short">
+        <single>p.</single>
+        <multiple>pp.</multiple>
+      </term>
     </terms>
   </locale>
 
